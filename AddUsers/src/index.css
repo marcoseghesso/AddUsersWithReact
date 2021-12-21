@@ -4,8 +4,13 @@
 
 html {
   font-family: sans-serif;
+  height: 100%;
 }
 
 body {
   margin: 0;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
